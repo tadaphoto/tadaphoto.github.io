@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1921.668" height="623.021" viewBox="0 0 1921.668 623.021">
+    <defs>
+        <style>
+            .cls-1{stroke:#707070;fill:url(#linear-gradient)}
+        </style>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#69ff97" stop-opacity=".8"/>
+            <stop offset="1" stop-color="#00e4ff" stop-opacity=".8"/>
+        </linearGradient>
+    </defs>
+    <path id="Top_background" d="M699.514 511.175c-183.073-159.658-410.335-27.31-591.3-18.906-54.423 0-52.719-12.511-108.21-12.511C-1.042 442.329-.7 351.08-.151 269.3-.808 177.932-.674 46.891-.361.149c95.4 2.645 830.542 1.72 1362.9.794C1675.666.4 1918.636-.146 1920 .037v511.138c-3.295-4.3-52.6 4.2-90.482-31.512-59.473-58.477-143.416-99.172-412.44 12.605 0 0-50.5 10.5-180.97 73.526-63.37 30.611-148.563 56.266-240.428 56.263-97.269-.003-202.015-28.773-296.166-110.882z" class="cls-1" data-name="Top background" transform="translate(1.168 .464)"/>
+</svg>
