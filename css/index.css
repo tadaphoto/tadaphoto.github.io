@@ -1,0 +1,41 @@
+/* CSS Document */
+
+html {
+	margin: 0;
+	background: rgb(2,176,211);
+	background: -moz-linear-gradient(180deg, rgba(2,176,211,1) 0%, rgba(4,116,159,1) 33%, rgba(5,56,107,1) 100%);
+	background: -webkit-linear-gradient(180deg, rgba(2,176,211,1) 0%, rgba(4,116,159,1) 33%, rgba(5,56,107,1) 100%);
+	background: linear-gradient(180deg, rgba(2,176,211,1) 0%, rgba(4,116,159,1) 33%, rgba(5,56,107,1) 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#02b0d3", endColorstr="#05386b", GradientType=1);
+	color: #EDF5E1;
+}
+body {
+	margin: 0;
+}
+#heroDiv {
+	background: rgb(75,195,138);
+	background: -moz-linear-gradient(135deg, rgba(75,195,138,1) 0%, rgba(2,176,211,1) 100%);
+	background: -webkit-linear-gradient(135deg, rgba(75,195,138,1) 0%, rgba(2,176,211,1) 100%);
+	background: linear-gradient(135deg, rgba(75,195,138,1) 0%, rgba(2,176,211,1) 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#4bc38a", endColorstr="#02b0d3", GradientType=1);
+	height: 70vh;
+	width: 60vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-family: nunito;
+	font-style: normal;
+	font-size: 400%;
+	border-bottom-right-radius: 100px;
+	-webkit-box-shadow: 7px 7px 20px 7px rgba(4,115,159,1);
+	-moz-box-shadow: 7px 7px 20px 7px rgba(4,115,159,1);
+	box-shadow: 7px 7px 20px 7px rgba(4,115,159,1);
+}
+#logo {
+	margin-top: -70vh;
+	float: right;
+	padding-right: 10%;
+	padding-top: 5%;
+	width: 20%;
+}
